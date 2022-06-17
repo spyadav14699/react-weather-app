@@ -54,12 +54,7 @@ const ShowProducts = () => {
   return (
    <>
    
-    {filter.list.map((el) => {
-
-
-        return (
-            <>
-    <div className="maindiv">
+   <div className="maindiv">
         
         <br/>
         <br/>
@@ -150,10 +145,6 @@ const ShowProducts = () => {
              </div>
         
             </div>
-
- </>
-    )
-    })}
 
     </>
     )}
