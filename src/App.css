@@ -104,12 +104,14 @@
 .visibilitycontent {
   background-color: rgba(0, 0, 0, 0.089);
   line-height: 20%;
+  font-size: 12px;
+  width: 30%;
   
 
 }
 .sunupdate {
    display: flex;
-  gap: 10px;
+  gap: 48%;
   margin-left: 10px;
   line-height: 40%;
 
